@@ -1,2 +1,1 @@
-import turtle as seseesseesse
-241422442
+import turtle as tutel
