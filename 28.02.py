@@ -1,5 +1,2 @@
-import turtle as t
-
-def any_1():
+def triangledull():
     pass
-
